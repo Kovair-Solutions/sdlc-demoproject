@@ -6,7 +6,7 @@ public class login {
 		System.out.println("\tWELCOME TO COLOIDAL CALCULATOR\n");
 		System.out.println("\tENTER YOUR USERNAME:- ");
 		System.out.println("\tENTER YOUR PASSWORD:- ");
-		System.out.println("\tNew Commit Added");
+		System.out.println("\tThis is the new commit");
 		System.out.println("================================================================");
 		System.out.println("================================================================");
 	}
