@@ -7,6 +7,7 @@ public class login {
 		System.out.println("\tENTER YOUR USERNAME:- ");
 		System.out.println("\tENTER YOUR PASSWORD:- ");
 		System.out.println("\tNew Commit added");
+		System.out.println("\tLatest Commit has been added");
 		System.out.println("================================================================");
 		System.out.println("================================================================");
 	}
